@@ -1,0 +1,99 @@
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+body { background-image: white;
+     
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    
+    padding: 0;  }
+
+header {
+
+background-color: floralwhite;
+text-align: center;
+
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.common{
+    text-align: center;
+    position: static;
+
+}
+
+.header{
+    height: 100px;
+    background-color: rgb(222, 251, 251);
+    line-height: 100px;
+}
+
+.footer{
+    background-color: rgb(199, 251, 251);
+    line-height: 50px;
+    height: 50px;
+}
+
+body{
+    background-color: rgb(200, 255, 255);
+
+}
+
+img{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableauPlaceholder{
+    width:40%
+}
+
+.chartdescription{
+    padding-left: 50px;
+    font-size: 20px;
+
+}
+
+header{
+
+    text-align: center;
+    padding-right: 75px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 50px;
+    line-height: 50px;
+    padding-top: 15px;
+    
+
+}
+
+.listA{
+    font-size: 25px;
+    padding-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.listB{
+    font-size: 20px;
+
+}
+
+.helmetimg{
+    width: 50%;
+}
+
+.subheading{
+    color: black;
+}
+
+.centered{
+    text-align: center;
+    text-decoration: underline;
+} 
